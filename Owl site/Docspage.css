@@ -1,0 +1,338 @@
+.header
+{
+    background-color:rgb(28,202,205);
+    height: 90px; 
+    position: sticky;
+    width:auto;
+}
+.wards
+{
+    cursor:pointer;
+    color: antiquewhite;
+    position: absolute;
+    font-style:italic;
+    top: 10px;
+    margin: 10px;
+    font-size: 30px;
+    color:white;
+    margin-left: 165px;
+}
+
+.Home
+{   font-size: smaller;
+    color: aliceblue;
+    margin-left: 401px;
+    font-style: normal;
+ text-decoration:none;
+}
+.Home:hover
+{
+  color:white;
+}
+
+.Demos
+{
+    font-size: smaller;
+    color: aliceblue;
+    font-style: normal;
+    margin-left: 20px;
+    text-decoration:none; 
+}
+.Demos:hover
+{
+  color:white;
+}
+
+.Docs
+{
+    font-size: smaller;
+    color: aliceblue;
+    font-style: normal;
+    margin-left: 20px;
+   text-decoration:none;    
+}
+.Docs:hover
+{
+  color:white;
+}
+.hero-button
+{
+    font-size: 1.250rem;
+    display: inline-block;
+    color: aliceblue;
+    padding:1rem 2rem;
+    font-style: normal;
+    margin-left: -7px;
+    border:none;
+  text-decoration:none;
+  cursor:pointer;
+}
+.hero-button:hover
+{
+  color:white;
+}
+.headerdemo
+{
+   background-color: lightgray;
+   height: 50px;
+   max-width: 85.5rem;
+   margin-top: 36px;
+   padding: 1.2rem 0;
+   
+}
+.get
+{
+    margin-left: 165px;
+    color: black;
+    font-size: 40px;
+   font-style: normal;
+}
+
+.getting
+{
+    color: black;
+    font-style: revert;
+    font-size: 26px;
+    margin-left: 150px;
+
+}
+
+.welcome
+{
+    color: lightgray;
+    margin-left:150px;
+    margin-right:20px;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.welcome:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+
+.ins
+{
+    color: lightgray;
+    margin-left:150px;
+    margin-right:20px;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.ins:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+
+.FAQ
+{
+    color: lightgrey;
+    margin-left:150px;
+    margin-right:20px;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.FAQ:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+
+.API
+{
+    color: black;
+    font-style: revert;
+    font-size: 26px;
+    margin-left: 150px;
+
+}
+
+.Options
+{
+    color: lightgray;
+    margin-left:150px;
+    margin-right:20px;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.Options:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+
+.Classes
+{
+    color: lightgray;
+    margin-left:150px;
+    margin-right:20px;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.Classes:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+
+.Events
+{
+    color: lightgrey;
+    margin-left:150px;
+    margin-right:20px;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.Events:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+.dev
+{
+    color: black;
+    font-style: revert;
+    font-size: 26px;
+    margin-left: 150px;
+
+}
+
+.built
+{
+    color: lightgray;
+    margin-left:150px;
+    margin-right:20px;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.built:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+
+.plug
+{
+    color: lightgray;
+    margin-left:150px;
+    margin-right:20px;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.plug:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+
+.sass
+{
+    color: lightgrey;
+    margin-left:150px;
+    margin-right:20px;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.sass:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+
+.ext
+{
+    color: lightgrey;
+    margin-left:150px;
+    margin-right:20px;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.ext:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+.sup
+{
+    color: black;
+    font-style: revert;
+    font-size: 26px;
+    margin-left: 150px;
+
+}
+
+.con
+{
+    color: lightgrey;
+    margin-left:150px;
+    margin-right:20px;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.con:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+.ch
+{
+    color: lightgrey;
+    margin-left:150px;
+    margin-right:20px;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.ch:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+.Contact
+{
+    color: lightgrey;
+    margin-left:150px;
+    margin-right:20px;
+    padding-left: 20px;
+    height: 40px;
+    padding-top: 20px;
+    font-size: 20px;
+}
+.Contact:hover
+{
+    background-color: lightgray;
+    color: black;
+}
+.footer {
+  
+    background: lightgray;
+    color: black;
+    text-align: center;
+    width: auto;
+    height:50px;
+    max-width: 85.5rem;
+  }

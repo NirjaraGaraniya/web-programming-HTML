@@ -1,0 +1,400 @@
+.header
+{
+    background-color:rgb(28,202,205);
+    height: 90px; 
+    position: sticky;
+    width:auto;
+}
+.wards
+{
+    cursor:pointer;
+    color: antiquewhite;
+    position: absolute;
+    font-style:italic;
+    top: 10px;
+    margin: 10px;
+    font-size: 30px;
+    color:white;
+    margin-left: 165px;
+}
+
+.Home
+{   font-size: smaller;
+    color: aliceblue;
+    margin-left: 401px;
+    font-style: normal;
+ text-decoration:none;
+}
+.Home:hover
+{
+  color:white;
+}
+
+.Demos
+{
+    font-size: smaller;
+    color: aliceblue;
+    font-style: normal;
+    margin-left: 20px;
+    text-decoration:none; 
+}
+.Demos:hover
+{
+  color:white;
+}
+
+.Docs
+{
+    font-size: smaller;
+    color: aliceblue;
+    font-style: normal;
+    margin-left: 20px;
+   text-decoration:none;    
+}
+.Docs:hover
+{
+  color:white;
+}
+.hero-button
+{
+    font-size: 1.250rem;
+    display: inline-block;
+    color: aliceblue;
+    padding:1rem 2rem;
+    font-style: normal;
+    margin-left: -7px;
+    border:none;
+  text-decoration:none;
+  cursor:pointer;
+}
+.hero-button:hover
+{
+  color:white;
+}
+.headerdemo
+{
+   background-color: lightgray;
+   height: 50px;
+   max-width: 85.5rem;
+   margin-top: 36px;
+   padding: 1.2rem 0;
+   
+}
+.demo
+{
+    margin-left: 165px;
+    color: black;
+    font-size: 40px;
+   font-style: normal;
+}
+
+.row
+{
+    margin: 0 auto;
+    max-width: 62.5rem;
+    width: 100%;
+}
+
+.Basic
+{
+    font-style: normal;
+    color: black;
+    margin-top: 20px;
+    font-size: 23px;
+}
+
+.basicbox1
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: 53px;
+    margin-left: 30px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.basicbox1:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.basicbox2
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: -130px;
+    margin-left: 271px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.basicbox2:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.basicbox3
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: -130px;
+    margin-left: 512px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.basicbox3:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.basicbox4
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: -130px;
+    margin-left: 757px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.basicbox4:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.basicbox5
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: 10px;
+    margin-left: 29px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.basicbox5:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.basicbox6
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: -130px;
+    margin-left: 269px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 22px;
+    background-color:lightgray;
+}
+
+.basicbox6:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.basicbox7
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: -130px;
+    margin-left: 512px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.basicbox7:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.basicbox8
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: -130px;
+    margin-left: 757px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.basicbox8:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.basicbox9
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: 10px;
+    margin-left: 29px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.basicbox9:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.box1
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: 10px;
+    margin-left: 29px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.box1:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.box2
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: -130px;
+    margin-left: 271px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.box2:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.box3
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: -130px;
+    margin-left: 514px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.box3:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.box4
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: -130px;
+    margin-left: 760px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.box4:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.box5
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: 10px;
+    margin-left: 29px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.box5:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.lastbox
+{
+    height: 130px;
+    width: 20%;
+    color: black;
+    margin-top: 10px;
+    margin-left: 29px;
+    padding-left: 30px;
+    line-height: 131px;
+    font-size: 27px;
+    background-color:lightgray;
+}
+
+.lastbox:hover
+{
+    background-color:rgb(28,202,205);
+    color: white;
+}
+
+.footer {
+  
+    background: lightgray;
+    color: black;
+    text-align: center;
+    width: auto;
+    height:50px;
+    max-width: 85.5rem;
+  }
+  
